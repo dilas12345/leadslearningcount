@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Countdown/static/css/main.cb158103.chunk.css",
-    "main.js": "/Countdown/static/js/main.862d473f.chunk.js",
-    "main.js.map": "/Countdown/static/js/main.862d473f.chunk.js.map",
-    "runtime~main.js": "/Countdown/static/js/runtime~main.9957aeb5.js",
-    "runtime~main.js.map": "/Countdown/static/js/runtime~main.9957aeb5.js.map",
-    "static/js/2.ea116d1d.chunk.js": "/Countdown/static/js/2.ea116d1d.chunk.js",
-    "static/js/2.ea116d1d.chunk.js.map": "/Countdown/static/js/2.ea116d1d.chunk.js.map",
-    "index.html": "/Countdown/index.html",
-    "precache-manifest.8f581d3ab93a66ff11289b05899d1053.js": "/Countdown/precache-manifest.8f581d3ab93a66ff11289b05899d1053.js",
-    "service-worker.js": "/Countdown/service-worker.js",
-    "static/css/main.cb158103.chunk.css.map": "/Countdown/static/css/main.cb158103.chunk.css.map"
+    "main.css": "/leadslearningcount/static/css/main.cb158103.chunk.css",
+    "main.js": "/leadslearningcount/static/js/main.862d473f.chunk.js",
+    "main.js.map": "/leadslearningcount/static/js/main.862d473f.chunk.js.map",
+    "runtime~main.js": "/leadslearningcount/static/js/runtime~main.2d2612e8.js",
+    "runtime~main.js.map": "/leadslearningcount/static/js/runtime~main.2d2612e8.js.map",
+    "static/js/2.ea116d1d.chunk.js": "/leadslearningcount/static/js/2.ea116d1d.chunk.js",
+    "static/js/2.ea116d1d.chunk.js.map": "/leadslearningcount/static/js/2.ea116d1d.chunk.js.map",
+    "index.html": "/leadslearningcount/index.html",
+    "precache-manifest.792c4310061ca1e341ce45c225f51d3a.js": "/leadslearningcount/precache-manifest.792c4310061ca1e341ce45c225f51d3a.js",
+    "service-worker.js": "/leadslearningcount/service-worker.js",
+    "static/css/main.cb158103.chunk.css.map": "/leadslearningcount/static/css/main.cb158103.chunk.css.map"
   }
 }
